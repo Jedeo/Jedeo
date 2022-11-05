@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jedeo</h1>
-<h3 align="center">A passionate frontend developer at the <a href="https://turing.edu/"/>Turing School of Software and Design.
 
-</h3>
+![Blue and White Neon Programmer Personal Branding Youtube Banner](https://user-images.githubusercontent.com/16736352/200098160-3f89b2d0-16ef-4df8-b713-e6c7e741e72b.png)
+
+
+
+<h1 align="center">Hi 👋, I'm Jedeo</h1>
+<p align="center">A passionate frontend developer at the <a href="https://turing.edu/"/>Turing School of Software and Design.
+
+</p>
 
 <h3> My Contributions: </h3>
  
@@ -12,6 +17,8 @@
 
 
 </p>
+
+<hr>
 
 <h3>Programming languages: </h3>
 
@@ -34,12 +41,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-0769AD?style=flat-square&logo=Webpack&logoColor=black" />
  </p>
 
-
+<hr>
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Art Part](https://github.com/alyciacan/stretch-tech)
+- 🔭 I’m currently working on [Art Party](https://github.com/alyciacan/stretch-tech)
 
 - 🌱 I’m currently learning **TypeScript and Express**
 
@@ -49,6 +59,7 @@
 
 - ⚡ Fun fact **I am passionate about playing the guitar**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
