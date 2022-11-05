@@ -1,20 +1,14 @@
 ![Blue and White Neon Programmer Personal Branding Youtube Banner (1)](https://user-images.githubusercontent.com/16736352/200133754-26f7b687-6fb5-4b39-baeb-c09a9888115a.png)
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Jedeo</h1>
-<p align="center">A passionate frontend developer at the <a href="https://turing.edu/"/>Turing School of Software and Design.
-
-</p>
+<p align="center">A passionate frontend developer at the <a href="https://turing.edu/"/>Turing School of Software and Design.</p>
 
 <h3> My Contributions: </h3>
  
  <p  align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedeo&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width=350px/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedeo&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width=500px/> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeo&layout=compact&theme=cobalt&hide_border=true"  width=350px/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeo&layout=compact&theme=cobalt&hide_border=true"  width=500px/>
 
 
 </p>
