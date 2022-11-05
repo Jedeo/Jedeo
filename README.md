@@ -55,8 +55,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jedeo](https://github.com/Jedeo)
 
-- 📫 How to reach me **jedeopastor@gmail.com**
-
 - ⚡ Fun fact **I am passionate about playing the guitar**
 
 <hr>
