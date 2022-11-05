@@ -1,5 +1,6 @@
+![Blue and White Neon Programmer Personal Branding Youtube Banner (1)](https://user-images.githubusercontent.com/16736352/200133754-26f7b687-6fb5-4b39-baeb-c09a9888115a.png)
 
-![Blue and White Neon Programmer Personal Branding Youtube Banner](https://user-images.githubusercontent.com/16736352/200098160-3f89b2d0-16ef-4df8-b713-e6c7e741e72b.png)
+
 
 
 
