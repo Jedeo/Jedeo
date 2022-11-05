@@ -6,9 +6,9 @@
 <h3> My Contributions: </h3>
  
  <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedeo&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width=500px/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedeo&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width=350px/> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeo&layout=compact&theme=cobalt&hide_border=true"  width=500px/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeo&layout=compact&theme=cobalt&hide_border=true"  width=350px/>
 
 
 </p>
