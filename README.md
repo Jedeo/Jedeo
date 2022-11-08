@@ -35,7 +35,7 @@
 <h3> Tools: </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Webpack-0769AD?style=flat-square&logo=Webpack&logoColor=black" />
