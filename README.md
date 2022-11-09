@@ -45,7 +45,7 @@
 <hr>
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Art Party](https://github.com/alyciacan/stretch-tech)
+- 🔭 I’m currently working on [Smart Dictionary](https://github.com/Jedeo/smartdictionary)
 
 - 🌱 I’m currently learning **TypeScript and Express**
 
