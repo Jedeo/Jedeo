@@ -45,7 +45,7 @@
 <hr>
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Smart Dictionary](https://github.com/Jedeo/smartdictionary)
+- 🔭 I’m currently working on [squeaker]([https://github.com/Jedeo/smartdictionary](https://github.com/Squeaker-2207/squeaker-fe))
 
 - 🌱 I’m currently learning **TypeScript and Express**
 
