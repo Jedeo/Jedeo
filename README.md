@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL&logoColor=e10098" />
  <!--- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> --->
  
 </p>
@@ -45,11 +46,11 @@
 <hr>
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [squeaker]([https://github.com/Jedeo/smartdictionary](https://github.com/Squeaker-2207/squeaker-fe))
+- 🔭 I’m currently working on [Squeakr](https://github.com/Squeaker-2207/squeaker-fe)
 
 - 🌱 I’m currently learning **TypeScript and Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jedeo](https://github.com/Jedeo)
+- 👨‍💻 All of my projects are available at [Jedeo](https://github.com/Jedeo)
 
 - ⚡ Fun fact **I am passionate about playing the guitar**
 
