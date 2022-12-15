@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/react router-red?style=for-the-badge&logo=react router&logoColor=white" />
 </p>
 
-<h3> Workflow & Tools:: </h3>
+<h3> Workflow & Tools:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white" />
