@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL&logoColor=e10098" />
+ <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
  <!--- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> --->
  
 </p>
@@ -34,13 +34,14 @@
   <img src="https://img.shields.io/badge/react router-red?style=for-the-badge&logo=react router&logoColor=white" />
 </p>
 
-<h3> Tools: </h3>
+<h3> Workflow & Tools:: </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-0769AD?style=flat-square&logo=Webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-0769AD?style=for-the-badge&logo=Webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
  </p>
 
 <hr>
