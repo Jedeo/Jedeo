@@ -1,4 +1,5 @@
-![Blue and White Neon Programmer Personal Branding Youtube Banner (1)](https://user-images.githubusercontent.com/16736352/200133754-26f7b687-6fb5-4b39-baeb-c09a9888115a.png)
+![Blue and White Neon Programmer Personal Branding Youtube Banner (2)](https://user-images.githubusercontent.com/16736352/207933029-7e7ac22b-a2b5-49f8-9658-e48927da9ec5.png)
+
 
 <h1 align="center">Hi 👋, I'm Jedeo</h1>
 <p align="center">A passionate frontend developer at the <a href="https://turing.edu/"/>Turing School of Software and Design.</p>
